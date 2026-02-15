@@ -1,5 +1,5 @@
 {
-  "Author": "SHAHADAT SAHU",
+  "Author": "Shariar Nafiz",
   "version": "2.0.0",
   "language": "en",
   "DeveloperMode": false,
@@ -12,7 +12,7 @@
   "PASSWORD": "your password",
   "OTPKEY": "",
   "BOTNAME": "─꯭─⃝‌‌𝐒𝐡𝐚riar 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭",
-  "PREFIX": "/",
+  "PREFIX": "+",
   "reactUnsend": ["😡", "🤧", "😤", "😠"],
 
   "ADMINBOT": [
@@ -20,7 +20,7 @@
     "61586663640809",
     "100044713412032"
   ],
-  "NDH": ["100044713412032"],
+  "NDH": ["100013868629835"],
   "adminOnly": false,
   "ndhOnly": false,
   "adminPaOnly": false,
